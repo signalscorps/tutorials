@@ -1,0 +1,14 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--2b890609-c746-4bad-b3f1-2398e1e8557e",
+    "created_by_ref": "identity--c73bd6f8-6cd0-4b39-a5ec-81c4461f97fb",
+    "created": "2022-06-25T17:33:34.166111Z",
+    "modified": "2022-06-25T17:33:34.166111Z",
+    "name": "My Indicator SDO with created pattern",
+    "description": "Pattern created using stix2",
+    "pattern": "[file:parent_directory_ref.path = 'C:\\\\Windows\\\\System32']",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-06-25T17:33:34.166111Z"
+}

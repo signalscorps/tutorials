@@ -1,0 +1,10 @@
+{
+    "type": "x-dummy-object",
+    "spec_version": "2.1",
+    "id": "x-dummy-object--e996146a-7713-4dbb-bde6-c1a7c51fae74",
+    "created_by_ref": "identity--c73bd6f8-6cd0-4b39-a5ec-81c4461f97fb",
+    "created": "2022-06-25T18:04:28.052625Z",
+    "modified": "2022-06-25T18:04:28.052625Z",
+    "property0": "something",
+    "property1": "value0"
+}

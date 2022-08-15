@@ -1,0 +1,16 @@
+{
+    "type": "sighting",
+    "spec_version": "2.1",
+    "id": "sighting--c62dde8c-d7bb-4be1-9075-5030a77bff7f",
+    "created_by_ref": "identity--c73bd6f8-6cd0-4b39-a5ec-81c4461f97fb",
+    "created": "2022-06-25T19:19:22.744361Z",
+    "modified": "2022-06-25T19:19:22.744361Z",
+    "count": 1,
+    "sighting_of_ref": "malware--31d2559c-149d-44c1-9fe9-dd8c147031c3",
+    "observed_data_refs": [
+        "observed-data--220aadc8-b1d0-42b6-8695-e07fde007588"
+    ],
+    "where_sighted_refs": [
+        "identity--c73bd6f8-6cd0-4b39-a5ec-81c4461f97fb"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "10296991-439b-4202-90a3-e38812613ad5",
+    "name": "Signals Corps",
+    "description": "Just some demo content",
+    "created": "2022-05-24T14:00:00.188Z",
+    "modified": "2022-05-24T14:00:00.188000+00:00",
+    "collections": [
+        {
+            "id": "x-mitre-collection--402e24b4-436e-4936-b19b-2038648f90",
+            "created": "2022-05-24T14:00:00.188Z",
+            "versions": [
+                {
+                    "version": "0.1",
+                    "url": "https://raw.githubusercontent.com/signalscorps/attack-workbench-tutorial/main/bundle--2c73efd0-2b59-4234-b3dc-2961f4b2e8e6.json",
+                    "modified": "2022-05-24T14:00:00.188Z"
+                }
+            ],
+            "name": "Signals Corps ATT&CK Tutorial",
+            "description": "https://www.signalscorps.com"
+        }
+    ]
+}

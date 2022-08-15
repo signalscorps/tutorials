@@ -1,0 +1,14 @@
+{
+    "type": "observed-data",
+    "spec_version": "2.1",
+    "id": "observed-data--220aadc8-b1d0-42b6-8695-e07fde007588",
+    "created_by_ref": "identity--c73bd6f8-6cd0-4b39-a5ec-81c4461f97fb",
+    "created": "2022-06-25T17:57:35.533987Z",
+    "modified": "2022-06-25T17:57:35.533987Z",
+    "first_observed": "2021-06-25T12:01:23.868289Z",
+    "last_observed": "2021-06-25T12:01:23.868289Z",
+    "number_observed": 1,
+    "object_refs": [
+        "ipv4-addr--dc63603e-e634-5357-b239-d4b562bc5445"
+    ]
+}

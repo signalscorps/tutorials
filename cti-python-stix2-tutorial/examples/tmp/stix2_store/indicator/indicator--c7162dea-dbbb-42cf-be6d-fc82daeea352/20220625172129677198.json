@@ -1,0 +1,18 @@
+{
+    "type": "indicator",
+    "spec_version": "2.1",
+    "id": "indicator--c7162dea-dbbb-42cf-be6d-fc82daeea352",
+    "created_by_ref": "identity--c73bd6f8-6cd0-4b39-a5ec-81c4461f97fb",
+    "created": "2022-06-25T17:21:29.677198Z",
+    "modified": "2022-06-25T17:21:29.677198Z",
+    "name": "My first SDO",
+    "description": "Getting started with cti-python-stix2",
+    "pattern": "[file:hashes.md5 = 'd41d8cd98f00b204e9800998ecf8427e']",
+    "pattern_type": "stix",
+    "pattern_version": "2.1",
+    "valid_from": "2022-06-25T17:21:29.677198Z",
+    "object_marking_refs": [
+        "marking-definition--34098fce-860f-48ae-8e50-ebd3cc5e41da",
+        "marking-definition--e55ae95e-54f0-4b00-96a2-678f744c3f8a"
+    ]
+}

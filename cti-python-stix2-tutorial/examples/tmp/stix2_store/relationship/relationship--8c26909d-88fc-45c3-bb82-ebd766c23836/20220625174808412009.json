@@ -1,0 +1,14 @@
+{
+    "type": "relationship",
+    "spec_version": "2.1",
+    "id": "relationship--8c26909d-88fc-45c3-bb82-ebd766c23836",
+    "created_by_ref": "identity--c73bd6f8-6cd0-4b39-a5ec-81c4461f97fb",
+    "created": "2022-06-25T17:48:08.412009Z",
+    "modified": "2022-06-25T17:48:08.412009Z",
+    "relationship_type": "indicates",
+    "source_ref": "indicator--c7162dea-dbbb-42cf-be6d-fc82daeea352",
+    "target_ref": "malware--31d2559c-149d-44c1-9fe9-dd8c147031c3",
+    "object_marking_refs": [
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+    ]
+}

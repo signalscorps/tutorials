@@ -1,0 +1,94 @@
+{
+  "type": "bundle",
+  "id": "bundle--2c73efd0-2b59-4234-b3dc-2961f4b2e8e6",
+  "objects": [
+    {
+      "x_mitre_domains": [],
+      "object_marking_refs": [],
+      "type": "x-mitre-collection",
+      "id": "x-mitre-collection--e302a053-8f05-4992-8b11-3432b8894600",
+      "created": "2022-07-02T14:59:30.565Z",
+      "modified": "2022-07-02T15:07:31.977Z",
+      "x_mitre_version": "0.1",
+      "external_references": [],
+      "x_mitre_deprecated": false,
+      "revoked": false,
+      "description": "Signals Corps ATT&CK Objects",
+      "spec_version": "2.1",
+      "created_by_ref": "identity--12282ac5-353e-494c-9e5b-5a4baaf2e1cb",
+      "name": "My first collection",
+      "x_mitre_contents": [
+        {
+          "object_ref": "malware--62abe680-1eb4-47ad-b634-5e1553c7b3c7",
+          "object_modified": "2022-07-02T14:57:36.412Z"
+        },
+        {
+          "object_ref": "identity--12282ac5-353e-494c-9e5b-5a4baaf2e1cb",
+          "object_modified": "2022-07-02T15:06:08.420Z"
+        }
+      ],
+      "x_mitre_attack_spec_version": "2.1.0",
+      "x_mitre_modified_by_ref": "identity--12282ac5-353e-494c-9e5b-5a4baaf2e1cb"
+    },
+    {
+      "labels": [],
+      "x_mitre_platforms": [
+        "Windows"
+      ],
+      "x_mitre_domains": [
+        "enterprise-attack"
+      ],
+      "x_mitre_contributors": [
+        "david",
+        "richard"
+      ],
+      "x_mitre_aliases": [
+        "my software"
+      ],
+      "object_marking_refs": [],
+      "external_references": [
+        {
+          "source_name": "mitre-attack",
+          "external_id": "S9001",
+          "url": "https://attack.mitre.org/software/S9001"
+        },
+        {
+          "source_name": "my software",
+          "description": "https://www.citation.com"
+        }
+      ],
+      "type": "malware",
+      "id": "malware--62abe680-1eb4-47ad-b634-5e1553c7b3c7",
+      "created": "2022-07-02T14:57:36.412Z",
+      "modified": "2022-07-02T14:57:36.412Z",
+      "x_mitre_version": "0.1",
+      "x_mitre_deprecated": false,
+      "revoked": false,
+      "description": "Original package name Eagle2.5-Client-Dll (outlined in red in Figure 6).\nOriginal function names (like main.StartEagle).\nPackages from Go standard and extended library (like bufio, log, x/net).\nPackages from other resources like GitHub repositories (outlined in yellow and green in Figure 6).",
+      "spec_version": "2.1",
+      "name": "Going Eagle",
+      "is_family": true,
+      "x_mitre_attack_spec_version": "2.1.0",
+      "created_by_ref": "identity--12282ac5-353e-494c-9e5b-5a4baaf2e1cb",
+      "x_mitre_modified_by_ref": "identity--12282ac5-353e-494c-9e5b-5a4baaf2e1cb"
+    },
+    {
+      "roles": [],
+      "sectors": ["technology"],
+      "object_marking_refs": [],
+      "external_references": [],
+      "type": "identity",
+      "id": "identity--12282ac5-353e-494c-9e5b-5a4baaf2e1cb",
+      "created": "2022-07-02T14:54:36.420Z",
+      "modified": "2022-07-02T15:06:08.420Z",
+      "x_mitre_version": "0.1",
+      "x_mitre_deprecated": false,
+      "revoked": false,
+      "description": "https://www.signalscorps.com",
+      "spec_version": "2.1",
+      "name": "Signals Corps Demos",
+      "identity_class": "organization",
+      "x_mitre_attack_spec_version": "2.1.0"
+    }
+  ]
+}

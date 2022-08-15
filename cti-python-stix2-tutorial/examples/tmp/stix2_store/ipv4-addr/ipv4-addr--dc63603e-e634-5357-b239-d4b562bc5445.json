@@ -1,0 +1,10 @@
+{
+    "type": "ipv4-addr",
+    "spec_version": "2.1",
+    "id": "ipv4-addr--dc63603e-e634-5357-b239-d4b562bc5445",
+    "value": "177.60.40.7",
+    "resolves_to_refs": [
+        "mac-addr--f72d7d00-86bd-5cd2-8c86-52f7a83bef62",
+        "mac-addr--875ad625-177b-5c2a-9101-d44b0ad55938"
+    ]
+}

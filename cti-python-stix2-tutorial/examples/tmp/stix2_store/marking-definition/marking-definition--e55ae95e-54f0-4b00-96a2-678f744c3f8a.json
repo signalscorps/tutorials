@@ -1,0 +1,10 @@
+{
+    "type": "marking-definition",
+    "spec_version": "2.1",
+    "id": "marking-definition--e55ae95e-54f0-4b00-96a2-678f744c3f8a",
+    "created": "2022-06-25T17:21:29.677052Z",
+    "definition_type": "statement",
+    "definition": {
+        "statement": "Content from the Signals Corps tutorial"
+    }
+}

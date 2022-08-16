@@ -20,6 +20,6 @@ def filter(object_id, object_version, collection=collection3):
     x =  collection.get_object(obj_id=object_id, modified=object_version)
     return x
 
-get_version = filter('relationship--2f9a9aa9-108a-4333-83e2-4fb25add0463','2014-05-08T09:00:00.000Z' )
+get_version = filter('indicator--cd981c25-8042-4166-8945-51178443bdac','2014-05-08T09:00:00.000Z' )
 
 print(get_version)

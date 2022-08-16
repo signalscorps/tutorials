@@ -18,7 +18,7 @@ for api_roots in server.api_roots:
 collection3 =  col['91a7b528-80eb-42ed-a74d-c6fbd5a26116']
 
 page_no = 1
-for envelope in as_pages(collection3.get_objects, per_request=1):
+for envelope in as_pages(collection3.get_objects, per_request=1000):
     print()
     print('Page # {}'.format(page_no))
     print()
